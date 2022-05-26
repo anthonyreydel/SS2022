@@ -1,0 +1,11 @@
+--2022-05-25 22:47:42--  https://www.google.com/url?sa=i
+Resolving www.google.com (www.google.com)... 142.250.181.228, 2a00:1450:4001:827::2004
+Connecting to www.google.com (www.google.com)|142.250.181.228|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘url?sa=i’
+
+url?sa=i                                          [<=>                                                                                               ]       0  --.-KB/s               url?sa=i                                          [ <=>                                                                                              ]   1.46K  --.-KB/s    in 0.001s  
+
+2022-05-25 22:47:42 (1.91 MB/s) - ‘url?sa=i’ saved [1491]
+
